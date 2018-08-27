@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/cochiletSerban/nodejs-ci/issues"
   },
-  "homepage": "https://github.com/cochiletSerban/nodejs-ci#readme"
+  "homepage": "https://github.com/cochiletSerban/nodejs-ci#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
 }
